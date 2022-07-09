@@ -7,5 +7,5 @@ class treeNode{
 	treeNode(t data){
 		this->data=data;
 	}
-
+		
 };
